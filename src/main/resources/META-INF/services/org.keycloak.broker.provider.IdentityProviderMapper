@@ -1,2 +1,3 @@
 io.github.johnjcool.keycloak.broker.cas.mappers.UserAttributeMapper
 io.github.johnjcool.keycloak.broker.cas.mappers.AttributeToRoleMapper
+io.github.johnjcool.keycloak.broker.cas.mappers.HardcodedGroupMapper
